@@ -12,29 +12,11 @@ Change detection (CD) is a process of extracting changes on the Earth’s surfac
 - Ubuntu 18.04
 - Python 3.8
 - pytorch 1.13.0
-
-## Installation
-
-
-## Getting Started
-
-### Train with a single GPU. 
-```shell
-
-```
-
-### Test
-```shell
-
-```
-
-### Evaluation
-
-
+  
 
 ## UAV-SD dataset
 
-UAV-SD dataset is available. [GoogleDrive](https://drive.google.com/file/d/1499SYQm1WklKdF1vGfVa6zQN-m_zId_N/view?usp=drive_link)
+UAV-SD dataset is available. [GoogleDrive](https://drive.google.com/file/d/1-9JVM9VgRd9pEwy4cnmpNMwh8SuSyZVc/view?usp=drive_link)
 
 
 ## Citation
